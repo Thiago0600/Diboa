@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+
+  
+  
+ body {
+    background-color: #2E8B57;
+    font-family: 'Roboto', sans-serif;
+   /* background: url(./WhatsApp\ Image\ 2023-07-08\ at\ 17.50.18.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;*/
+  }
+  
+  ul {
+  
+    list-style: none;
+  }
+  
+  header {
+    padding: 32px 0;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  section{
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  
+  header h1 {
+    margin-bottom: 4px;
+    font-size: 28px;
+    line-height: 33px;
+  }
+  
+  header h1 span {
+    color: #008000;
+  }
+  
+  header p {
+  
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  section {
+    margin-bottom: 24px;
+  }
+  
+  section h2 {
+    background-color: black;
+    padding: 8px 16px;
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 18px;
+  }
+  
+  ul li {
+    margin-bottom: 16px;
+    display: flex;
+  }
+  
+  li .details {
+    max-width: 240px;
+  }
+  
+  .details h3{
+    margin-bottom: 8px;
+    font-size: 16px;
+    
+  }
+  
+  
+  .details p{
+    color: rgba(red, green, blue, alpha);
+    font-size: 14px;
+    line-height: 21px;
+    width: 300px;
+  }
+  
+  h1{
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    color: #FF4500;
+    font-family: 'Roboto', sans-serif;
+    background: url(./WhatsApp\ Image\ 2023-07-08\ at\ 17.50.18.jpeg);
+    border-radius: 13px;
+  }
+
+  h2{
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    color:  #FF4500;
+    border-radius: 5px;
+  }
+
+  h3{
+    font-family: 'Bacasime Antique', serifa;
+    text-transform: uppercase;
+    color:  white;
+   }
+
+  .price{
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    color: white;
+  }
+
+  img{
+    padding: 2%;
+    position:left;
+    width: 88px;
+    height: 20;
+  }
+
+  p{
+    background-color: white;
+    border-radius: 10px;
+  }
+
+ 
